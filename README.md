@@ -26,14 +26,13 @@ model to predict tip amounts.
 Tip = 0.6689 + 0.0927×total_bill + 0.1759×size + 0.0324×sex 
       + 0.0801×smoker − 0.0134×day + 0.0069×time
 
-      🎓 Concepts Demonstrated
-
-Data cleaning and preprocessing
-Categorical variable encoding
-Pivot table construction and visualisation
-Pearson correlation analysis
-Multiple linear regression (OLS)
-Model evaluation (R², Adjusted R², RMSE)
-Residual analysis
-Business interpretation of statistical results
-Degrees of freedom and statistical significance (p-values)
+## 🎓 Concepts Demonstrated
+-Data cleaning and preprocessing
+-Categorical variable encoding
+-Pivot table construction and visualisation
+-Pearson correlation analysis
+-Multiple linear regression (OLS)
+-Model evaluation (R², Adjusted R², RMSE)
+-Residual analysis
+-Business interpretation of statistical results
+-Degrees of freedom and statistical significance (p-values)
