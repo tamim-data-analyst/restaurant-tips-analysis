@@ -25,22 +25,3 @@ model to predict tip amounts.
 ## 🧮 Regression Equation
 Tip = 0.6689 + 0.0927×total_bill + 0.1759×size + 0.0324×sex 
       + 0.0801×smoker − 0.0134×day + 0.0069×time
-
-## 📁 Dataset Source
-Real-world restaurant tips dataset (244 records, 1 duplicate removed)
-```
-
-Save the file.
-
----
-
-### ✅ STEP 7: Upload via GitHub Website (Easiest Method)
-
-If you don't want to use the terminal, just **drag and drop**:
-
-1. Go to your repository on github.com
-2. Click **"Add file"** → **"Upload files"**
-3. **Drag and drop** all your files into the window
-4. Scroll down, write a commit message like:
-```
-Add restaurant tips analysis files
